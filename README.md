@@ -1,4 +1,5 @@
-![Ekran görüntüsü 2024-12-05 195339](https://github.com/user-attachments/assets/33a530df-03bf-4f67-b1bc-68768cdbd8d3)
+![image](https://github.com/user-attachments/assets/e0cd8499-4ea1-4a70-a67b-b60317966fac)
+
 
 <h2>Kurulum</h2>
 
