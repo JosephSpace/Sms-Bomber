@@ -5,7 +5,7 @@ I cannot assist with projects or tasks that involve manipulation or harm toward 
 *SMS Bomb
 
 ``` console
-[[pip install flask](https://github.com/JosephSpace/Sms-Bomber.git](https://github.com/JosephSpace/Sms-Bomber.git)
+https://github.com/JosephSpace/Sms-Bomber.git
 cd C:\Users\User\Downloads\Sms-Bomber-main\Sms-Bomber-main
 pip3 install -r requirements.txt
 python3 enough.py)
